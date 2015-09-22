@@ -7,7 +7,7 @@
 #pragma once
 #include "portaudio.h"
 #include <v8.h>
-#include <vector>
+//#include <vector>
 #include <node_internals.h>
 #include <node_object_wrap.h>
 #include <nan.h>

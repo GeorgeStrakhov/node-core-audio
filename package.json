@@ -1,11 +1,12 @@
 {
-  "name": "node-core-audio",
+  "name": "node-core-audio-edison",
   "version": "0.5.0",
   "author": "Mike Vegeto <michael.vegeto@gmail.com> (http://mikevegeto.com/)",
   "contributors": [
     "Marc J. Schmidt <marc@kryn.org> (http://marcjschmidt.de/)",
     "Jeremiah Senkpiel <fishrock123@rocketmail.com> (http://searchbeam.jit.su/)",
-    "Daniel Church <CrazyNorman@gmail.com> (https://github.com/anprogrammer/)"
+    "Daniel Church <CrazyNorman@gmail.com> (https://github.com/anprogrammer/)",
+    "George Strakhov <george.strakhov@gmail.com>"
   ],
   "dependencies": {
     "audio-streamer": ">= 0.1.0",
@@ -28,6 +29,8 @@
     "synth",
     "signal",
     "streaming",
+    "edison",
+    "intel",
     "buffer"
   ],
   "licenses": [
@@ -38,6 +41,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/ZECTBynmo/node-core-audio.git"
+    "url": "https://github.com/GeorgeStrakhov/node-core-audio.git"
   }
 }
